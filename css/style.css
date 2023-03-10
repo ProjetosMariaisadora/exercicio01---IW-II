@@ -1,0 +1,38 @@
+.button1 {
+    background-color: #FFC0CB;
+    color: black;
+    border: 2px solid black; /* black */
+    padding: 15px 32px;
+  }
+
+  footer{
+    background-color: #FFC0CB;
+    text-align: center;
+    margin-top: 20%;
+  }
+
+  .container{
+    margin: 5%;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  p{
+    font-size: 1.5em;
+  }
+  .menu{
+    margin-left: 20%;
+  }
+
+.imgum{
+  float: right;
+}
+
+.imgtres{
+  margin-left: 18%;
+}
+
+
+  
